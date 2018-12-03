@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1041980996463",
+    "firebase_url": "https://mykotlinproject-bc27b.firebaseio.com",
+    "project_id": "mykotlinproject-bc27b",
+    "storage_bucket": "mykotlinproject-bc27b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041980996463:android:a04de4c3602998cc",
+        "android_client_info": {
+          "package_name": "com.bondi.introtokotlinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041980996463-rspqj7874r051f4mu2elfiulbrqudpq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bondi.introtokotlinfirebase",
+            "certificate_hash": "5fb6e0c6af6868ec65a0c789f504ec4fd679abf7"
+          }
+        },
+        {
+          "client_id": "1041980996463-jra94bk565d8kucgsv8uj6sbsjqg02ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyedAuQ7ThjG2msfR0djqjgBfYR1XRGNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041980996463-jra94bk565d8kucgsv8uj6sbsjqg02ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
